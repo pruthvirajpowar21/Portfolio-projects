@@ -1,4 +1,4 @@
---select data that we are going to be using
+--select data that we are going to be using, Covid Death and Covid Vaccination Data is getting used for below queries
 
 select location, date, total_cases, new_cases, total_deaths, population
 from PortfolioProject..CovidDeaths$
